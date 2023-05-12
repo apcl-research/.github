@@ -4,7 +4,7 @@ We research AI-based methods for machine comprehension of software programs!  We
 
 Team Leader:
 
-[Collin McMillan](http://www3.nd.edu/~cmc/)
+[Collin McMillan](http://sdf.org/~cmc/)
 
 Graduate Students:
 
