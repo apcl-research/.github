@@ -9,6 +9,7 @@ Team Leader:
 Graduate Students:
 
 [Chia-Yi Su](https://chiayisu.github.io/)
+
 [Aakash Bansal](https://sites.nd.edu/abansal)
 
 If you ever need help or just want to be in touch, find us on our [Discord Server](https://discord.gg/Sj8TwGJv4w).
